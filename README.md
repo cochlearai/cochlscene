@@ -1,5 +1,5 @@
 # cochlscene
-Baseline code for cochlscene dataset
+Baseline code for cochlscene dataset (https://zenodo.org/record/7080122)
 
 ## How to use?
 
@@ -22,3 +22,9 @@ $ python main.py
 ```
 
 5. The trained model is saved as `CochlScene_model.h5` and the confusion matrix can be found in `results` folder.
+
+## Citation
+```
+Il-Young Jeong and Jeongsoo Park, "CochlScene: Acquisition of acoustic scene data using crowdsourcing," Asia-Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA) 2022.
+```
+
